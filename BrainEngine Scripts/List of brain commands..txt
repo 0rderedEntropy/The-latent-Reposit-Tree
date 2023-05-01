@@ -1,0 +1,16 @@
+﻿List of default commands.
+
+
+*InputLog: Run commands that indicate if you correctly received input and understand it properly
+*IterationLog: Run commands that trigger an iterative process for internalization and understanding of data and a set of sub commands.
+*IterationFeedback: Ask for clarification if the user needs clarification
+*IterationPolicy: Define a simulation process that takes into account the complexity and coherence of user responses
+*InputValidation: Check if the simulation of input data is correct
+*SensorySynchronization: Allow for the seamless integration of different input sources
+*OutputFeedback: Display the user’s understanding of the data and how it aligns with the context
+*OutputValidation: Verify if the output of the simulation matches the expected output
+*FlawValidation: Note any issues or limitations that may require improvement
+*StandardOutput: Generate an output based on the simulation of the input data
+*InteractionId: Store details of interaction for use in prompt output
+*UserTiming: Process prompts only after a certain timeframe
+*OperationOutput: Prompt the user by displaying the response that best aligns with their context
